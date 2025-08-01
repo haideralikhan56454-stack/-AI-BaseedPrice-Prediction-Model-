@@ -8,7 +8,7 @@ This is a Streamlit web application built for the Price Prediction Challenge. It
 
 * Upload your own data or generate synthetic CSVs for:
 
-  * LME Commodity Prices
+  *  Prices
   * JPX Market Data
   * Forex Rates
   * US Stock Index
